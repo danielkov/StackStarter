@@ -50,7 +50,7 @@
     "eslint-plugin-react": "7.17.0",
     "eslint-plugin-react-hooks": "2.3.0",
     "prettier": "1.19.1",
-    "prisma2": "2.0.0-preview019",
+    "prisma2": "2.0.0-previewnull-1",
     "ts-node": "8.5.4",
     "ts-node-dev": "1.0.0-pre.44",
     "typescript": "3.7.4"
